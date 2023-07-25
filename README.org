@@ -1,0 +1,10 @@
+* cl-editdistance
+
+A Common Lisp implementation of edit distance.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/belambert/cl-editdistance.git   |
+| commit  | {"messa  |
+| systems | cl-editdistance |
+|---------+-------------------------------------------|
+
