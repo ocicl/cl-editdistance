@@ -2,9 +2,8 @@
 
 A Common Lisp implementation of edit distance.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/belambert/cl-editdistance.git   |
-| commit  | 89c48c1  |
-| systems | cl-editdistance |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/belambert/cl-editdistance.git |
+| commit  | 89c48c1                                              |
+| systems | edit-distance                                        |
+|---------+------------------------------------------------------|
