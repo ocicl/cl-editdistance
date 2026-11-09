@@ -4,7 +4,7 @@ A Common Lisp implementation of edit distance.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/belambert/cl-editdistance.git |
-| commit  | 55f0f1c                                              |
+| commit  | ccb44e7                                              |
 | systems | edit-distance                                        |
 |---------+------------------------------------------------------|
   
